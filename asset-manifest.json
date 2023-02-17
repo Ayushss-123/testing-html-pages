@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http/Ayushss-123.github.io/testing-html-pages/static/css/main.3d86840b.css",
+    "main.js": "/http/Ayushss-123.github.io/testing-html-pages/static/js/main.e088e7b5.js",
+    "index.html": "/http/Ayushss-123.github.io/testing-html-pages/index.html",
+    "main.3d86840b.css.map": "/http/Ayushss-123.github.io/testing-html-pages/static/css/main.3d86840b.css.map",
+    "main.e088e7b5.js.map": "/http/Ayushss-123.github.io/testing-html-pages/static/js/main.e088e7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d86840b.css",
+    "static/js/main.e088e7b5.js"
+  ]
+}
